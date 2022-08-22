@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/only-forms/static/js/main.8632383d.js",
+    "static/media/HelveticaNeue.woff": "/only-forms/static/media/HelveticaNeue.dd182a17aba7b048ac2e.woff",
+    "static/media/HelveticaNeueBold.woff": "/only-forms/static/media/HelveticaNeueBold.53ada03fc8789af5ab1b.woff",
+    "index.html": "/only-forms/index.html",
+    "main.8632383d.js.map": "/only-forms/static/js/main.8632383d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8632383d.js"
+  ]
+}
